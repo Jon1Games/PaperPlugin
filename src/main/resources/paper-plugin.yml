@@ -1,0 +1,8 @@
+name: Main
+version: "${version}"
+main: de.jonas.template.Main
+loader: de.jonas.template.PaperPluginLoader
+description:
+api-version: "1.21.4"
+authors:
+  - "NAME"
